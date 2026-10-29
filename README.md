@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Salvatore 👋
 
-<!--
-**SalvatoreNoschese/SalvatoreNoschese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux & PHP tinkerer from Messina, living near Reggio Emilia. I build small
+self-hosted tools that run on ordinary shared hosting, with privacy as the
+default rather than an option.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 [**AESBin**](https://github.com/SalvatoreNoschese/AESBin): a self-hosted,
+  single-user file manager that keeps everything encrypted at rest
+- 🧰 [**WebTools**](https://tools.salvatorenoschese.it/): free, privacy-first
+  web tools for developers, in five languages
+- ✉️ **MultiContactForm**: a self-hosted contact form (source coming soon)
+
+## Find me
+
+[About](https://about.salvatorenoschese.it/) ·
+[Blog](https://salvatorenoschese.it/) ·
+[Mastodon](https://mastodon.uno/@sn) ·
+[Telegram](https://t.me/snblogchannel) ·
+[Support my projects](https://donate.salvatorenoschese.it/)
