@@ -10,8 +10,8 @@ default rather than an option.
   single-user file manager that keeps everything encrypted at rest
 - 🧰 [**WebTools**](https://tools.salvatorenoschese.it/): free, privacy-first
   web tools for developers, in five languages
-- ✉️ **MultiContactForm**: a self-hosted contact form (source coming soon)
-
+- ✉️ **[MultiContactForm](https://github.com/SalvatoreNoschese/MultiContactForm)**: a self-hosted contact form
+- 💻 **[DDEV CLI Manager](https://github.com/SalvatoreNoschese/ddm)**: with one-click installations and multi-framework support
 ## Find me
 
 [About](https://about.salvatorenoschese.it/) ·
