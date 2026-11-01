@@ -6,13 +6,14 @@ default rather than an option.
 
 ## What I build
 
-- 🔐 [**AESBin**](https://github.com/SalvatoreNoschese/AESBin): a self-hosted,
+- 🔐 **[AESBin](https://github.com/SalvatoreNoschese/AESBin)**: a self-hosted,
   single-user file manager that keeps everything encrypted at rest
-- 🧰 [**WebTools**](https://tools.salvatorenoschese.it/): free, privacy-first
+- 🧰 **[WebTools](https://tools.salvatorenoschese.it/)**: free, privacy-first
   web tools for developers, in five languages
 - ✉️ **[MultiContactForm](https://github.com/SalvatoreNoschese/MultiContactForm)**: a self-hosted contact form
-- ℹ️ **[System-Info.php](https://github.com/SalvatoreNoschese/system-info.php)**: one-file server report for PHP: resources, host, PHP and cache status
+- ℹ️ **[system-info.php](https://github.com/SalvatoreNoschese/system-info.php)**: one-file server report for PHP: resources, host, PHP and cache status
 - 💻 **[DDEV CLI Manager](https://github.com/SalvatoreNoschese/ddm)**: with one-click installations and multi-framework support
+
 ## Find me
 
 [About](https://about.salvatorenoschese.it/) ·
