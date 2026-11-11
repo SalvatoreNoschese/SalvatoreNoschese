@@ -20,8 +20,8 @@ default rather than an option.
 
 ## Find me
 
-[About](https://about.salvatorenoschese.it/) ·
 [Blog](https://salvatorenoschese.it/) ·
+[About](https://about.salvatorenoschese.it/) ·
+[Donate](https://donate.salvatorenoschese.it/) ·
 [Mastodon](https://mastodon.uno/@sn) ·
-[Telegram](https://t.me/snblogchannel) ·
-[Support my projects](https://donate.salvatorenoschese.it/)
+[Telegram](https://t.me/snblogchannel) 
