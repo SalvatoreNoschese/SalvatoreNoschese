@@ -11,6 +11,7 @@ default rather than an option.
 - ✉️ **[MultiContactForm](https://github.com/SalvatoreNoschese/MultiContactForm)**: a self-hosted contact form
 - ℹ️ **[system-info.php](https://github.com/SalvatoreNoschese/system-info.php)**: one-file server report for PHP: resources, host, PHP and cache status
 - 🛡️ **[wp-check.sh](https://github.com/SalvatoreNoschese/wp-check.sh)**: one-file, read-only security check of a WordPress site, also from your phone
+- 🔑 **[bw-audit.sh](https://github.com/SalvatoreNoschese/bw-audit.sh)**: one-file audit of a Bitwarden export: breached, reused and weak passwords, never printed
 - 💻 **[DDEV CLI Manager](https://github.com/SalvatoreNoschese/ddm)**: a menu-driven DDEV manager, with one-click installations and multi-framework support
 
 ## Hosted
